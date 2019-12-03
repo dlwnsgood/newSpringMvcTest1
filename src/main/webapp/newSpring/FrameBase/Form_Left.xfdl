@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FDL version="2.0">
+  <Form id="Form_Left" width="200" height="670" titletext="Form_Left">
+    <Layouts>
+      <Layout width="200" height="670" screenid="Desktop_screen">
+        <Button id="Button00" taborder="0" text="좌측 메뉴 부분" left="15" top="5" width="180" height="653"/>
+      </Layout>
+    </Layouts>
+  </Form>
+</FDL>
